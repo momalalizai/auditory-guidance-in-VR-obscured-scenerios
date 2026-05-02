@@ -121,7 +121,5 @@ Completed Master's Thesis / Research Prototyp
 
 <img width="1200" height="667" alt="Subjective Results " src="https://github.com/user-attachments/assets/2ccf986b-754f-43ce-8f5c-76b93d453413" />
 
-## Project Video Demonstration: 
-
 
 
