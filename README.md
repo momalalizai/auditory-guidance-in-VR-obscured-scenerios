@@ -97,3 +97,31 @@ Spatial audio showed stronger results compared to stereo audio:
 ## Status
 
 Completed Master's Thesis / Research Prototyp
+
+## Media
+## User Exposure to the Test Setup: 
+<img width="635" height="600" alt="User-Expereice to the Simulation " src="https://github.com/user-attachments/assets/1869519b-815a-4beb-9bbb-f78adbe8c20b" />
+
+## Spatial Audio Cues 
+<img width="645" height="365" alt="Spatial Audio Cues" src="https://github.com/user-attachments/assets/e997ee1d-2407-44b2-8d39-569d66a18bbf" />
+
+## Stereo Audio Cues 
+<img width="612" height="517" alt="Stero Audio Cues " src="https://github.com/user-attachments/assets/47ee9a58-7953-4af0-8a3d-0e406fc31fd3" />
+
+## Experimental Setup: 
+5 different grids of different Heights and Distances were introduced to test hearing capabilites under both audio cues 
+<img width="817" height="683" alt="Five Grids of Different heights and distances " src="https://github.com/user-attachments/assets/adf3e412-b0ed-46ef-83b6-e1bb782daade" />
+
+## Results: 
+## Objectively Measured Results:
+
+<img width="770" height="688" alt="Objective Results " src="https://github.com/user-attachments/assets/2627a722-2c3d-4aef-9381-56074e09028b" />
+
+## Subjectively Measured Results: 
+
+<img width="1200" height="667" alt="Subjective Results " src="https://github.com/user-attachments/assets/2ccf986b-754f-43ce-8f5c-76b93d453413" />
+
+## Project Video Demonstration: 
+
+
+
